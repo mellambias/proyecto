@@ -8,5 +8,4 @@ usando la rama origin/readme se actualiza este readme.
 const app = () => 'main app';
 ```
 
-no utilice esta rama...
-rama readme -> no modifique el arquivo desde otra rama !!!
+no utilice la rama master para actualizar el readme
