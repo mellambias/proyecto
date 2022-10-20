@@ -2,4 +2,8 @@
 
 ## proyecto actualizado:
 
-usando esta rama se actualiza el readme.
+usando la rama origin/readme se actualiza este readme.
+
+```js
+const app = () => 'main app';
+```
